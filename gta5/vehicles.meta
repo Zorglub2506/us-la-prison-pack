@@ -14822,7 +14822,7 @@
       <modelName>pbus</modelName>
       <txdName>pbus</txdName>
       <handlingId>POLICET</handlingId>
-      <gameName>PBUS</gameName>
+      <gameName>pbus</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
